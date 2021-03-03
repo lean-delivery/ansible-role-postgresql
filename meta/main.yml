@@ -1,9 +1,6 @@
 # file: postgresql/meta/main.yml
 
 galaxy_info:
-  role_name:
-    - postgresql
-    - postgre
   author: pjan vandaele
   company: ANXS
   description: "Install and configure PostgreSQL, dependencies, extensions, databases and users."
